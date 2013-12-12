@@ -1,0 +1,26 @@
+Always do this w/ your data
+
+setwd("dataviz-fall-2013//final-project//working")
+> data <- read.csv("gis-arizona.csv", stringsAsFactors=F)
+
+dim(data)
+
+head(data)
+
+names(data)
+
+
+
+
+
+
+Where are people dying the most? 
+
+Compare temperature data with deaths.
+
+How many people are unknown? Where are the most unknowns?
+
+Men vs. women? Change per year?
+
+
+
